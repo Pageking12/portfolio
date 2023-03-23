@@ -1,0 +1,10 @@
+.pic1 img{
+    width: 800px;
+}
+.pic2 img{
+    width: 230px;
+    height: 200px;
+}
+.pic1 p{
+    font-style: italic;
+}
